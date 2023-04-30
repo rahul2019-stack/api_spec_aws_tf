@@ -1,0 +1,1 @@
+Creata a api gateway integrated with lambda in non proxy mode having api specifications in swagger yaml file
